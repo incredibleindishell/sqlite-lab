@@ -13,7 +13,20 @@ Types of SQL Injection in this Lab
 
 3. Boolean based Blind SQL Injection 
 
+#Guide for learning SQLIte SQL Injection 
+
+https://github.com/incredibleindishell/sqlite-lab/blob/master/Injecting%20SQLite%20database%20based%20application.pdf
+
+#Note: -
+
+Those users who are using ubuntu, make sure php-sqlite package is installed in system
+
+command to install php-sqlite package
+
+apt-get install php5-sqlite
+
 #Lab screenshot
+
 
 screenshot 1
 
