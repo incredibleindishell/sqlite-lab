@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  web:
+    image: sqlite-lab
+    hostname: sqliteweb
+    build:
+      context: .
+    ports:
+      - "8080:80"
